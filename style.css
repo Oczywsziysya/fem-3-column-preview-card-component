@@ -38,7 +38,7 @@ body {
     font-size: 15px;
     display: grid;
     place-content: center;
-    background-color: var(--transparent-white-color);
+    background-color: var(--very-light-gray-color);
 }
 
 main {
@@ -79,7 +79,7 @@ main > section > header > div {
 main > section > p {
     color: var(--transparent-white-color);
     margin-block-end: 85.25px;
-    line-height: 1.5;
+    line-height: 1.65;
 }
 
 main > section > button {
